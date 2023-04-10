@@ -1,0 +1,12 @@
+# to install: python -m pip install -r requirements.txt
+
+# neopixels
+adafruit-circuitpython-neopixel
+# mcp9808
+adafruit-circuitpython-mcp9808
+# Adafruit-Blinka (circut-python support)
+Adafruit-Blinka
+# cython 
+cython
+# gui package library
+customtkinter

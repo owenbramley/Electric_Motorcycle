@@ -1,0 +1,15 @@
+R1
+    Relay One - left turn signals
+    PINs
+    
+R2
+    Relay Two - right turn signals
+    PINs
+
+R3 
+    Relay Four - head light
+    PINs
+    
+R4 
+    Relay Five - horn
+    PINs
